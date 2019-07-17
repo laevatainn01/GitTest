@@ -2,7 +2,7 @@
 
 void main()
 {
-	printf("Hello World!\n\n");
+	printf("Hello World!\n");
 
 	printf("æ»≥Á«œººø‰\n");
 
